@@ -1,4 +1,4 @@
-Qer3D is a renderer pack for the Qer Library.
+<br>Qer3D</br> is a renderer pack for the <br>Qer Library</br>.
 
 Example code written with this library will look like this:
 ```cpp
