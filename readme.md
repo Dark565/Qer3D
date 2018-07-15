@@ -30,3 +30,4 @@ if(mx.render({1920,1080},p) {
     throw std::string("Render error");
 }
 ```
+^ This code will create a textured ball, render it and show on a screen.
